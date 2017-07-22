@@ -1,4 +1,4 @@
-# Demo Arabic Talk To Speech
+# Demo Arabic Text To Speech
 
 
 This is just a demo reading text in Arabic
