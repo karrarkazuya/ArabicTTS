@@ -7,11 +7,6 @@ import android.util.Log;
 
 import java.util.Locale;
 
-/**
- * Created by karrar on 7/21/17.
- * ArabicTTS
- */
-
 public class ArabicTTS {
 
     // Used to conver to basic latin form
@@ -21,8 +16,8 @@ public class ArabicTTS {
     private static String[] mistakes = {"bay","dai","sad","bar","kah","aaa","kau","oan","tuo","yam","gar"," uo","saf","maz","maw","yaw","wab","kas","mach","wak","has","zam","aya","mar","tan","sar","way "," man ","hawak","rad","i ","bay","law","way","lalah"," maw "," maw?","maw ","yar","tak","zab","nay","aay"," aa","nai"};
     private static String[] fixes = {"bi","di","sed","ber","kh","aa","ku","on","tou","eym","gur"," wa","sif","muz","moo","eoo","ob","kos","mich","ok","hass","zom","aia","mer","taan","sur","oee "," min ","hook","red","y ","bi","loo","we","llah"," mo "," mo?","mo ","yer","tik","zeb","ni","ai"," a","ni"};
 
-    private static String[] arnumbers = {"0","١","1","2","3","4","5","6","7","8","9"};
-    private static String[] ennumbers = {" suffrr "," waheed "," waheed "," ethaneen "," sallassa "," arurbaa "," khamssa "," setta "," sabaa "," sammania "," tessaa "};
+    private static String[] arnumbers = {"0","1","2","3","4","5","6","7","8","9"};
+    private static String[] ennumbers = {" suffrr "," waheed "," ethaneen "," sallassa "," arbaa "," khamssa "," setta "," sabaa "," sammania "," tessaa "};
 
 
 
