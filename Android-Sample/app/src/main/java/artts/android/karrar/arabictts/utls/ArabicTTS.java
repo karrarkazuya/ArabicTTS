@@ -117,8 +117,8 @@ public class ArabicTTS {
             }
         }
         if(type == 1)
-        text = text.replace("a "," ");
-        return text;
+            text = text.replace("a "," ");
+            return text;
     }
 
 
